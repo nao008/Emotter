@@ -1,0 +1,6 @@
+/__pycache__/*
+owner.txt
+/buckup/*
+/venv/*
+*.pt
+debug_results/*
